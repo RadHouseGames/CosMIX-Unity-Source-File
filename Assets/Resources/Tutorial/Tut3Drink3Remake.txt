@@ -1,0 +1,2 @@
+<color=grey><b>{Kaline:} If you need a reminder on what you’re doing, check the <color=blue><b>RECIPE BOOK'S</b></color> Quick Guide!
+<color=grey><b>{Kaline:} I'm going to need you to make a proper <color=#d3eee5><b>Moonshine</b></color> now.

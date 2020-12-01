@@ -1,0 +1,6 @@
+<color=red>{???:}</color> HELLO. YOU MUST BE THE NEW EMPLOYEE WE HAVE HERE. 
+
+<color=red>{???:}</color> I AM THE OWNER OF MOONSHOT, AND I AM HERE TO TEST YOUR SKILLS. 
+
+<color=red>{???:}</color> IF YOU WOULD BE SO KIND, MAKE ME A <color=#e03179>Sex on the Moon,</color> NOW.
+

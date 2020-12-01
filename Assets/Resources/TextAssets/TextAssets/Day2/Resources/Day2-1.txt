@@ -1,0 +1,19 @@
+<color=grey><b>{Kaline:}</b></color> Hey champ, I see you made it through to your second day, good job! 
+
+<color=grey><b>{Kaline:}</b></color> That's longer than some people who've worked here have lasted! 
+
+<color=grey><b>{Kaline:}</b></color> Hey champ, I see you made it through to your second day, good job! That's longer than some people who've worked here have lasted! 
+
+<color=grey><b>{Kaline:}</b></color> How did you find it, meet any interesting people? 
+
+<color=grey><b>{Kaline:}</b></color> ...
+
+<color=grey><b>{Kaline:}</b></color> Oh, those two? They're regulars. 
+
+<color=grey><b>{Kaline:}</b></color> One of them used to work for one of our rivals I think, you should ask him about that if you get the chance.
+
+<color=grey><b>{Kaline:}</b></color> Anyways, I'm just here on my evening routine. Out of curiosity, how confident are you feeling today? 
+
+<color=grey><b>{Kaline:}</b></color> How about trying to make me a <color=#4375be>Shooting Star?</b></color>
+
+<color=grey><b>{Kaline:}</b></color> Shouldn't be too hard, surely you know what you're doing by now!

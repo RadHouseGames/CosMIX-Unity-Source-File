@@ -1,0 +1,112 @@
+<color=orange><b>{@:}</b></color> Hey, how's it going? ... Yeah, me too, me too... haha! I'll take something simple please, not in the mood for anything too complicated.
+
+<color=#be4a17><b>{Lawrence:}</b></color> Hey, how's it going? ... Yeah, me too, me too... haha! I'll take something simple please, not in the mood for anything too complicated.
+
+
+<color=#be4a17><b>{Lawrence:}</b></color> Right: Nice, this is what I had in mind. Let me give this a try. Day 3-1Drink1Correct
+
+<color=#be4a17><b>{Lawrence:}</b></color> Wrong: Yeah, not sure I am really feeling something this complex. Day 3-1Drink1DCorrect
+
+
+<color=#be4a17><b>{Lawrence:}</b></color> Not bad, this reminds me of what I used to drink when I was younger.Er, yeah, not too bad actually!Hmmm... I don't rate that.Oh, oh my god. What is that?
+
+
+<color=#be4a17><b>{Lawrence:}</b></color> Hey, I should say, I really rate the outfit. Wish I could work in a smart outfit like that, us space engineers are stuck in these nasty overalls all the time. Hm? Who do I work for? Well, I run my own company, Atomic World ltd. We've got a few different divisions, almost too much for me to handle, believe me. 
+
+<color=#be4a17><b>{Lawrence:}</b></color> I was thinking of expanding into leisure and opening a hotel/bar type thing but I think I'd be clueless when it comes to how to run it, maybe you could come tell me what to do? Hah.
+
+<color=#be4a17><b>{Lawrence:}</b></color> Think I might have something a little heavier now, I feel like being brave, how about something REALLY strong? Maybe give me something I couldn't find many other places.
+
+
+
+<color=#be4a17><b>{Lawrence:}</b></color> Right: Wow, I'm surprised you knew what I wanted. You're good at this.
+
+<color=#be4a17><b>{Lawrence:}</b></color> Wrong: Yeah, maybe not... I'll still try and drink it though.
+
+<color=#be4a17><b>{Lawrence:}</b></color> You're really good, I gotta say. Maybe you could come work at my hotel when I finally get round to opening it? 
+
+<color=#be4a17><b>{Lawrence:}</b></color> Oh, by the way, I was thinking about renting this place for a company party with some extra friends some time next week, the drinks here are really something else so I think they'd really like it you know? 
+
+<color=#be4a17><b>{Lawrence:}</b></color> Well, thanks for the drinks, I'll be off now. Got to get back to my dirt block day trading. See you!
+
+
+
+<color=#ad396b><b>{Meryl:}</b></color> Howdy. I'm pink unit from the Space Ranger Division, you new here? Can't say I've seen your face before. Well, regardless, I'll take a <color=#a41717>Moonberry Juice</color> please if that's alright.
+ 
+
+<color=#ad396b><b>{Meryl:}</b></color> Wow, this is great, good job. 
+
+<color=#ad396b><b>{Meryl:}</b></color> Not bad, not bad. This'll go down nicely.
+
+<color=#ad396b><b>{Meryl:}</b></color> Not sure I'm ordering this one again...
+
+<color=#ad396b><b>{Meryl:}</b></color> Did you make this with your eyes closed?
+
+
+<color=#ad396b><b>{Meryl:}</b></color> Great, that just hit the spot. Hey, let me tell you about something insane which happened on our cruise ship last night. 
+
+<color=#ad396b><b>{Meryl:}</b></color> We were flying to one of our polar bases when we got a report from head office saying there was supposedly a strange unidentified lifeform on the ship. 
+
+<color=#ad396b><b>{Meryl:}</b></color> This sent us all into a bit of a panic, and when we had a look round, we couldn't find anything. The only living things on the ship were eachother!
+
+<color=#ad396b><b>{Meryl:}</b></color> It wasn't the best thing that's ever happened to me, I'll tell you that much. Suddenly nobody could trust each other. 
+
+<color=#ad396b><b>{Meryl:}</b></color> Not to mention how someone kept sabotaging all of our ship functions, which made it ten times harder to do any of our basic routines. 
+
+
+<color=#ad396b><b>{Meryl:}</b></color> Gah, stressful days like this just make me want to drink. throw me something FRUITY. 
+
+
+<color=#ad396b><b>{Meryl:}</b></color> Right: That's what I'm talking about, nice one bartender! Lemme get this down.
+
+<color=#ad396b><b>{Meryl:}</b></color> Wrong: No, no, this isn't what I said. I'm not into this. Sigh...
+
+<color=#ad396b><b>{Meryl:}</b></color> ...Anyway, in the end we got paranoid that the unknown lifeform was one of the crewmates. I suppose you could call them an imposter. 
+
+<color=#ad396b><b>{Meryl:}</b></color> Strangest thing of all, one of our crewmates mysteriously disappeared.
+
+<color=#ad396b><b>{Meryl:}</b></color> What did he look like? Well, the last person who saw him said he was wearing a black space suit.
+
+<color=#ad396b><b>{Meryl:}</b></color> I've said too much. I-I should go. Thank you for the drinks!!
+
+
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Hello. I am Fatih Hammer. I am in the Moonshot bar, right?
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Good. In that case, I will order a <color=#acc8d7><b>Water</b></color>. Yes, that's right, I said a <color=#acc8d7><b>Water</b></color>.
+
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Your performance was passable, though maybe I could've done a better job myself.
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> What brings me here? Well, why does anyone go anywhere? I'm here because I want to drink. 
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Humble bartender, tell me, what is the worst drink on the menu, and why is it the <color=#db634c><b>Fruit Moon</b></color>?
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> No answer? Well, I'll tell you why. Do you see that girl you use on the label for the drink? Look at the colour of her hair. 
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Why is it not pink?
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> It is a simple question. In fact, I'll solve this issue for you. Take this pen.
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Good...
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Now give her pink hair. 
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Yes, you heard me correctly, give her pink hair and I will become a regular patron of the Moonshot bar. It is that simple.
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Excellent. Now, give me a <color=#db634c><b>Fruit Moon</b></color>.
+
+
+
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> I'll be honest. I didn't want a drink, I just wanted the label. I will now go home, scan this image and add it to my files. Thank you, bartender.
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> What was your name again?
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> Right, @. Understood.
+
+<color=#85ff55><b>{F4T1H - H4MM3R:}</b></color> I will be back, @, goodbye. Just saying, you'd look better with pink hair.
+
+<color=orange><b>{@:}</b></color> (What strange people I've seen today. Guess it's time to close up shop. Seems I'm getting better at this.) 
+
+

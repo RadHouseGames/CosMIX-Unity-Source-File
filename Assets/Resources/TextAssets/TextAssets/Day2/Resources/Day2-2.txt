@@ -1,0 +1,11 @@
+<color=grey><b>{Kaline:}</b></color> That reminds me, apparently our rivals have opened a new branch nearby. 
+
+<color=grey><b>{Kaline:}</b></color> I'm tempted to go and scout it out and see how good it is, you know, do a little tactical espionage action! 
+
+<color=grey><b>{Kaline:}</b></color> I think I'd make quite a good spy, what do you think?
+
+<color=grey><b>{Kaline:}</b></color> ...
+
+<color=grey><b>{Kaline:}</b></color> I expected that kind of response. 
+
+<color=grey><b>{Kaline:}</b></color> Well anyways, I'll leave you to it. I think I can see some people hanging around outside. Good luck!

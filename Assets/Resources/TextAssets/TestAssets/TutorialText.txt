@@ -1,0 +1,18 @@
+<color=grey><b>{Kaline:}</b></color> Hey newbie! You’re, <color=orange>@</color> , right? I’m <color=grey><b>Kaline</b></color>, one of the Duty Manager’s here, and I’m here to train you to become the best bartender this place has ever seen! After me, of course.. Ahh, I remember when I first started at The Moonshot, those were the days! 
+<color=grey><b>{Kaline:}</b></color> But hey, let’s waste no time. I gotta show you what you’re gonna be doing here! I’ll cover everything like finding your recipe, adding <color=blue><b>[INGREDIENTS]</b></color> to the mixer, and mixing to perfection!
+
+<color=grey><b>{Kaline:}</b></color> Now, to your left you’ll see all the <color=blue><b>[INGREDIENTS]</b></color>! These are the wonderful items which we make our drinks from. You can hover over them to see what they are called and a little flavour description.
+
+<color=grey><b>{Kaline:}</b></color> Next is the <color=blue><b>[RECIPE BOOK]</b></color>, which is also to your left. When a customer asks for a drink, they’ll likely either say exactly what they want or they’ll tell you roughly what they’re looking for. Regardless, open up that <color=blue><b>[RECIPE BOOK]</b></color> and see what we’ve got! 
+
+<color=grey><b>{Kaline:}</b></color> Nice one. Now I’ll show you how to add ingredients to the mixer! All you have to do is click and hold on the item you want, then drag and drop it into the <color=blue><b>[INGREDIENTS]</b></color> bucket. For now add some Blazar Ice to the bucket so we can make a Water Cyclone.
+
+<color=grey><b>{Kaline:}</b></color> Normally, ingredients cost money to buy and add, so each one you add will mean you’ll lose however much it is worth. Be careful though, if you have to bin a drink then you won’t get that money back! If you run out of your shift budget, then that’s it for you I’m afraid. 
+
+<color=grey><b>{Kaline:}</b></color> Hey, cheer up! For the sake of this training session, you can try as many times as you like! 
+
+<color=grey><b>{Kaline:}</b></color> Once all your ingredients are in the bucket, let’s get shaking! Once you’re confident you’ve got all the right ingredients, hit the <color=blue><b>[SHAKER]</b></color> button on the bottom shelf. Then, shake to the required amount and you’re done! 
+
+<color=grey><b>{Kaline:}</b></color> You’ll notice in the recipe book that the Water Cyclone says to shake it to about 20%, so let’s aim for that. Give it a try!
+
+<color=grey><b>{Kaline:}</b></color> Excellent! Now when you’re confident you’ve got the right drink, hit the <color blue><b>[SERVE]</b></color> button next to the <color=blue><b>[SHAKER]</b></color>! 

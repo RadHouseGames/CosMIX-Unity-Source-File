@@ -1,0 +1,1 @@
+<color=orange>{@:}</color> (I wonder what he's trying to say? He looks thirsty, maybe I should get him a <color=#acc8d7><b>Water</b></color>?)

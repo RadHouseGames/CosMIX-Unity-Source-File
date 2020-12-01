@@ -1,0 +1,11 @@
+<color=grey><b>{Kaline:}</b></color> Hey newbie! You’re, <color=orange>@</color>, right? I’m <color=grey><b>Kaline</b></color>, one of the Duty Manager’s here, and I’m here to train you to become the best bartender this place has ever seen! 
+
+<color=grey><b>{Kaline:}</b></color> After me, of course.. Ahh, I remember when I first started at The Moonshot, those were the days! 
+
+<color=grey><b>{Kaline:}</b></color> But hey, let’s waste no time. I gotta show you what you’re gonna be doing here! 
+
+<color=grey><b>{Kaline:}</b></color> I’ll cover everything like finding your recipe, adding ingredients to the mixer, and mixing to perfection!
+
+<color=grey><b>{Kaline:}</b></color> Now, to your left you’ll see all the ingredients! These are the wonderful items which we make our drinks from. You can hover over them to see what they are called and a little flavour description.
+
+<color=grey><b>{Kaline:}</b></color> Next is the recipe book, which is also to your left. When a customer asks for a drink, they’ll likely either say exactly what they want or they’ll tell you roughly what they’re looking for. Regardless, open up that recipe book and see what we’ve got! 

@@ -1,0 +1,11 @@
+<color=#96805e><b>{Callum:}</b></color> Sean, we should be going. We're gonna be late!
+
+<color=#045b00><b>{Sean:}</b></color> Oh yeah, that's right, this was meant to just be a quick stop. 
+
+<color=#045b00><b>{Sean:}</b></color> Hey, thanks for the drinks. What was your name again?
+
+<color=#96805e><b>{Callum:}</b></color> Wow, <color=orange>@</color>, nice name. 
+
+<color=#045b00><b>{Sean:}</b></color> Well, <color=orange>@</color>, we'll definitely be back. Take care. 
+
+

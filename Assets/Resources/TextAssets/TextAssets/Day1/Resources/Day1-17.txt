@@ -1,0 +1,19 @@
+<color=#045b00><b>{Sean:}</b></color> Hey, how you doing?
+
+<color=#96805e><b>{Callum:}</b></color> Evening. 
+
+<color=#045b00><b>{Sean:}</b></color> Are you new here? Hah, I can tell by the look on your face. Well, I promise we're not that intimidating.
+
+<color=#96805e><b>{Callum:}</b></color> Yeah, it's usually the hat that does that to them.
+
+<color=#045b00><b>{Sean:}</b></color> Oh come on, I took it off for once! 
+
+<color=#96805e><b>{Callum:}</b></color> Yeah only because I made you! 
+
+<color=#045b00><b>{Sean:}</b></color> Ah, we shouldn't be doing this here. Sean, what do you want to order?
+
+<color=#045b00><b>{Sean:}</b></color> Hmmm, I'll take a <color=#d3eee5><b>Moonshine</b></color> please. 
+
+<color=#96805e><b>{Callum:}</b></color> Jeez, so basic. 
+
+<color=#045b00><b>{Sean:}</b></color> Wow, thanks. Why you judging me for having a <color=#d3eee5><b>Moonshine?</b></color>

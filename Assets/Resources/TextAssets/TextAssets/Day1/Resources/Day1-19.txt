@@ -1,0 +1,42 @@
+<color=#045b00><b>{Sean:}</b></color> So, how long have you been working here? 
+
+<color=#045b00><b>{Sean:}</b></color> ...
+
+<color=#045b00><b>{Sean:}</b></color> Really, this is your first day? Nice one.
+
+<color=#96805e><b>{Callum:}</b></color> (Pssst, he's gonna start talking about when he worked at the bar, brace yourself.)
+
+<color=#045b00><b>{Sean:}</b></color> I used to work at a bar a while back, it was hectic. Always cleaning up someone's... something or other. 
+
+<color=#96805e><b>{Callum:}</b></color> You wouldn't believe some of the stories he used to tell me.
+
+<color=#045b00><b>{Sean:}</b></color> Honestly, I don't envy you. But hey, this place seems fairly chilled out, I could get used to this atmosphere. 
+
+<color=#96805e><b>{Callum:}</b></color> That reminds me, I noticed one of the ingredients for the Fruit Moon is something called a “<color=#ffff71><b>Space Lemon</b></color>”... what even is that?
+
+<color=#045b00><b>{Sean:}</b></color> It's a lemon with a microscopic asteroid belt around it.
+
+<color=#96805e><b>{Callum:}</b></color> Seriously? Does that go into the drink?
+
+<color=#96805e><b>{Callum:}</b></color> ...
+
+<color=#045b00><b>{Sean:}</b></color> ...Really?
+
+<color=#045b00><b>{Sean:}</b></color> You remove it before you put it in the drink?
+
+<color=#96805e><b>{Callum:}</b></color> So does it end up being any different to a normal lemon?
+
+<color=#045b00><b>{Sean:}</b></color> Doesn't seem to be. 
+
+<color=#045b00><b>{Sean:}</b></color> Though, that begs the question of where you actually get them from. 
+
+<color=#045b00><b>{Sean:}</b></color> Then again, thinking about some of the things you have here like the <color=#eb9308><b>Void Orange</b></color>... 
+
+<color=#045b00><b>{Sean:}</b></color> I don't think I want to find out. 
+
+<color=#96805e><b>{Callum:}</b></color> Wuss. Hey, Sean, you want anything else?
+
+<color=#045b00><b>{Sean:}</b></color> Sure. I'm not really sure what I feel like though, maybe something nice and <color=#e80e0e><b>red?</b></color>
+
+
+

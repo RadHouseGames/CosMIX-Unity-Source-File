@@ -1,0 +1,21 @@
+<color=grey><b>{Kaline:}</b></color> Nice one. Now I'll show you how to add ingredients to the mixer! 
+
+<color=grey><b>{Kaline:}</b></color> All you have to do is click and hold on the item you want, then drag and drop it into the <color=blue><b>INGREDIENTS</b></color> bucket. 
+
+<color=grey><b>{Kaline:}</b></color> For now add some Blazar Ice to the bucket so we can make a Water Cyclone.
+
+<color=grey><b>{Kaline:}</b></color> Normally, ingredients cost money to buy and add, so each one you add will mean you'll lose however much it is worth. 
+
+<color=grey><b>{Kaline:}</b></color> Be careful though, if you have to bin a drink then you won't get that money back! If you run out of your shift budget, then that's it for you I'm afraid. 
+
+<color=grey><b>{Kaline:}</b></color> Hey, cheer up! For the sake of this training session, you can try as many times as you like! 
+
+<color=grey><b>{Kaline:}</b></color> Once all your ingredients are in the bucket, let's get shaking! 
+
+<color=grey><b>{Kaline:}</b></color> Once you're confident you've got all the right ingredients, hit the <color=blue><b>SHAKER</b></color> button on the bottom shelf. Then, shake to the required amount and you're done! 
+
+<color=grey><b>{Kaline:}</b></color> You'll notice in the recipe book that the <color=#acc8d7><b>Water Cyclone</b></color> says to shake it to about 20%, so let's aim for that. Give it a try!
+
+<color=grey><b>{Kaline:}</b></color> Excellent! Now when you're confident you've made me a <color=#acc8d7><b>Water Cyclone,</b></color> hit the SERVE button next to the shaker!
+
+

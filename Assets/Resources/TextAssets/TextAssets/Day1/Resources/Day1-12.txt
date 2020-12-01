@@ -1,0 +1,9 @@
+<color=grey><b>{Kaline:}</b></color> Oh, I should mention, customers often like to wash down their drinks with a <color=#acc8d7><b>Water Cyclone.</b></color>
+
+<color=grey><b>{Kaline:}</b></color> ...
+
+<color=grey><b>{Kaline:}</b></color> Hm? What's a <color=#acc8d7><b>Water Cyclone?</b></color> 
+
+<color=grey><b>{Kaline:}</b></color> Well, it's pretty much standard water, but made from dissolved <color=#88f1f1><b>Blazar Ice.</b></color>
+
+<color=grey><b>{Kaline:}</b></color> Water is quite hard to come by out in the depths of space so we have to find another way round. Speaking of, how about a <color=#acc8d7><b>Water Cyclone?</b></color> 

@@ -1,0 +1,5 @@
+<color=grey><b>{Kaline:}</b></color> Hey, nice one! Yeah, I know what you're thinking. Wasn't expecting the boss to look like that were you? 
+
+<color=grey><b>{Kaline:}</b></color> I gotta say, you did excellently, I definitely didn't manage to get this much done in my first week! You're a natural.
+
+<color=grey><b>{Kaline:}</b></color> Well, I hope you had fun! You can go and enjoy your weekend now, take it easy! See ya, @!

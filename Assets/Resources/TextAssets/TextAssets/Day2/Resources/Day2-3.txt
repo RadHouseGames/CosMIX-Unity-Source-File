@@ -1,0 +1,10 @@
+
+<color=#990f00><b>{April:}</b></color> Evenin'. You're a new face here, how long you been workin' here? 
+
+<color=#990f00><b>{April:}</b></color> ...
+
+<color=#990f00><b>{April:}</b></color> Not bad, must be nice to have a job workin' in a place like this. 
+
+<color=#990f00><b>{April:}</b></color> That name's <color=#990f00><b>April</b></color>. Always wanted to be a bartender see, but I found I was much better at workin' the ol' greenery, y‘hear? 
+
+<color=#990f00><b>{April:}</b></color> But hey, I won't bore ya. How about something nice and <color=#584f82><b>dark?</b></color>

@@ -1,0 +1,10 @@
+<color=grey><b>{Kaline:}</b></color> Hey, welcome back @! I guess today is your first proper day working at the Moonshot, congrats! 
+
+<color=grey><b>{Kaline:}</b></color> I thought I'd swing by and say hi, just to make sure you're getting settled alright. 
+
+<color=grey><b>{Kaline:}</b></color> Hey, how about I order a couple of drinks to get you warmed up for your first proper customer? 
+
+<color=grey><b>{Kaline:}</b></color> Hmm, what am I feeling right now?
+
+<color=grey><b>{Kaline:}</b></color> Oh, I know! How about a <color=#d3eee5><b>Moonshine?</b></color> That should be nice and simple. Remember, use that recipe book if you have to! 
+

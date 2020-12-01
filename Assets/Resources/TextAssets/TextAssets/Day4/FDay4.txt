@@ -1,0 +1,3 @@
+<color=#045b00><b>{Sean:}</b></color> Hey, can I get something to drink? I'm parched. 
+
+<color=#96805e><b>{Callum:}</b></color> Yeah, same. How about a <color=#7766b8><b>Midnight Moon?</b></color> 
